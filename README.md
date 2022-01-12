@@ -4,7 +4,7 @@
   </a><br><br>
   Frontend basic-api
 </h1>
-<p align=center>Projeto de exemplo consumindo o <a href="https://github.com/Typhz/basic-api">basic-api</a></p>                       
+<p align=center>Projeto de exemplo consumindo o <a href="https://github.com/Typhz/basic-api">express-api</a></p>                       
 <h1 align="center">
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Typhz/basic-api-frontend" />
   <img alt="" src="https://img.shields.io/github/repo-size/Typhz/basic-api-frontend" />
